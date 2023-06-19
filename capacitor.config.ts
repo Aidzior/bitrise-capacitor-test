@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.klawiatura.app',
-  appName: 'KLAWIATURA',
+  appId: 'ay.capacitortest.app',
+  appName: 'capacitortest',
   webDir: 'www',
   server: {
     androidScheme: 'https'
